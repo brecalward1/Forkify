@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "babel": "^6.23.0",
+    "core-js": "^3.45.0",
+    "datatables.net-dt": "^2.3.2",
+    "fractional": "^1.0.0",
+    "fractional.js": "^1.0.0",
+    "regenerator-runtime": "^0.14.1",
+    "sass": "^1.90.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
+    "parcel": "^2.15.4"
+  },
+  "name": "forkify",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "",
+  "license": "ISC"
+}

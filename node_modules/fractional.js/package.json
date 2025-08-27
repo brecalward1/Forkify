@@ -1,0 +1,29 @@
+{
+  "name": "fractional.js",
+  "version": "1.0.0",
+  "description": "A simple, lightweight fraction library.",
+  "main": "fractional.min.js",
+  "unpkg": "fractional-browser.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasgruwez/fractional.js.git"
+  },
+  "keywords": [
+    "math",
+    "fraction",
+    "arithmetics",
+    "algebra"
+  ],
+  "author": "Lucas Gruwez <gruwez.lucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasgruwez/fractional.js/issues"
+  },
+  "homepage": "https://github.com/lucasgruwez/fractional.js#readme"
+}
